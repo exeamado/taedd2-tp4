@@ -213,25 +213,3 @@ El informe de 3 páginas incluye:
 9. **Conclusiones Generales**
 
 ---
-
-## Notas Adicionales
-
-- Los programas están comentados y documentados
-- Cada método incluye su documentación JavaDoc
-- Los tiempos de ejecución pueden variar según el hardware
-- Los programas incluyen salida formateada para mejor legibilidad
-- El código está optimizado para ser educativo y comprensible
-
----
-
-## Autor
-
-Estudiante de Ingeniería en Software
-Taller de Algoritmos y Estructura de Datos II
-2025
-
----
-
-## Licencia
-
-Este proyecto es material académico para fines educativos.
